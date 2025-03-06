@@ -45,6 +45,7 @@ header {
     border-radius: 10px;
     height: 300px;
     border: none;
+    flex: auto;
 }
 .menu {
     background-color: #757027;
@@ -55,6 +56,7 @@ header {
     font-size: 32px;
     margin-bottom: 20px;
     color: #860d0d;
+
 
     
 }
@@ -69,17 +71,27 @@ header {
     margin-bottom: 20px;
     object-fit: cover;
     border-bottom:ipx solid #860d0d;
+    border-radius: 8px;
+
 }
-.h2{
+.{
     font-size: 32px;
     margin-bottom: 20px;
     color: #860d0d;
 }
+.about{
+    padding: 40px;
+    text-align: center;
+    background-color: #87743a;
+    color: rgb(67, 29, 61);
+    border-radius: 8px;
+    margin: 20px;
+}
 .reservartion{
     padding: 40px;
     text-align: center;
-    background-color: blue;
-    color: white;
+    background-color: rgb(137, 109, 38);
+    color: rgb(152, 39, 148);
     border-radius: 8px;
     margin: 20px;
 
@@ -87,13 +99,13 @@ header {
 .reservation h2{
     font-size: 32px;
     margin-bottom: 20px;
-    color: #325c92;
-    text-align: left;
+    color: #b52e73;
+    text-align: center;
     max-width: 100%;
     background-position: 0%;
     background-size: 100%;
     background-repeat: no-repeat;
-    background-color: #644e15;
+    background-color: #6e5a25;
     padding: 20px;
     border-radius: 8px;
     margin: 20px;
